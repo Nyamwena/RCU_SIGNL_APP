@@ -196,11 +196,7 @@ export default function Page() {
         className="text-center text-heading"
         style={{ marginBottom: '0.5em', fontSize: '25px' }}
       >
-        <img
-            src="logo.png"
-            alt="logo"
-            style={{ height: '100px' }}
-        /> Reformed Church University Sign Language Translation App
+        Real-Time Sign Language Translation App
       </h1>
       {loading && (
         <div className="row justify-content-center">
