@@ -2,9 +2,9 @@ const Page = () => {
   return (
     <div style={{ marginTop: '2em' }}>
       <div className="jumbotron text-center">
-        <h1 >Reformed Church University Sign Language Translation App </h1>
+        <h1 >Sign Language Translation App </h1>
         <h4>
-          Reformed Church University Sign Language Translation App uses machine learning to transform webcam input into readable
+        THIS Real-Time Sign Language Translation App uses machine learning to transform webcam input into readable
           sign language using a variety of different techniques.
         </h4>
       </div>
